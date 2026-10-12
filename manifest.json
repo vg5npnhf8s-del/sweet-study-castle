@@ -1,0 +1,17 @@
+{
+  "name": "Sweet Study Castle",
+  "short_name": "Sweet Study",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8b8d2",
+  "theme_color": "#f8b8d2",
+  "description": "かわいい世界観の受験勉強管理アプリ",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
