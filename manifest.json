@@ -1,11 +1,11 @@
 {
-  "name": "スタキャソ｜わたしのピンク手帳",
-  "short_name": "スタキャソ",
-  "description": "予定・勉強・ミッション・給料をまとめて管理するピンクの手帳アプリ",
-  "start_url": "./",
+  "name": "Sweet Study Castle",
+  "short_name": "Sweet Study",
+  "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#fff7fa",
-  "theme_color": "#f8dce8",
+  "background_color": "#f8b8d2",
+  "theme_color": "#f8b8d2",
+  "description": "かわいい世界観の受験勉強管理アプリ",
   "icons": [
     {
       "src": "icon.svg",
